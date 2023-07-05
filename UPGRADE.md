@@ -1,6 +1,6 @@
 # Advantage 360 Pro ZMK upgrade guide
 
-The last V2.0 update and the new V3.0 branch have introduced changes into the keymap files that causes merge conflicts for people updating with custom keymaps. This guide covers what changed, why it changed and how to fix it.
+The last V2.0 update and the new V3.0 branch have introduced changes into the keymap files that causes merge conflicts for people updating with custom keymaps. This guide covers what changed, why it changed and how to fix it. testing
 
 ## What changed and why
 
